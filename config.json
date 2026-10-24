@@ -9,5 +9,6 @@
   "show_dialog": false,
   "telegram_link": "https://t.me/kmjTrick",
   "title": "😈 KMJ TIPS",
-  "update_link": "https://t.me/kmjTrick"
+  "update_link": "https://t.me/kmjTrick",
+  "force_update": true
 }
