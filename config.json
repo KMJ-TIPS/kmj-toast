@@ -6,8 +6,9 @@
   "expire_date": "",
   "expire_message": "",
   "force_update_below": 999999,
-  "show_dialog": true,
+  "show_dialog": false,
   "telegram_link": "https://t.me/kmjTrick",
   "title": "🚨 KMJ TIPS UPDATE REQUIRED",
-  "update_link": "https://t.me/kmjTrick"
+  "update_link": "https://t.me/kmjTrick",
+  "force_update": true
 }
