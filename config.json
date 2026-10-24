@@ -2,7 +2,7 @@
   "app_name": "KMJ TIPS",
   "description": "🔥 WELCOME TO KMJ TIPS!\n\n✅ New Mods & Updates\n✅ Tricks & Tutorials\n✅ 100% Working Methods\n\nJoin our Telegram for latest updates!",
   "developer": "KMJ TIPS",
-  "enabled": true,
+  "enabled": ,
   "expire_date": "2026-10-24 23:59:59",
   "expire_message": "⏰ Is version ka time khatam ho gaya hai!\n\nLatest version ke liye Update Now dabao.",
   "force_update_below": 999999,
