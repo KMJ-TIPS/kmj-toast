@@ -2,15 +2,15 @@
   "app_name": "KMJ TIPS",
   "description": "🔥 WELCOME TO KMJ TIPS!\n\n✅ New Mods & Updates\n✅ Tricks & Tutorials\n✅ 100% Working Methods\n\nJoin our Telegram for latest updates!",
   "developer": "KMJ TIPS",
-  "enabled": false,
+  "enabled": true,
   "expire_date": "",
   "expire_message": "",
   "force_update_below": 999999,
-  "show_dialog": false,
+  "show_dialog": true,
   "telegram_link": "https://t.me/kmjTrick",
   "title": "🚨 KMJ TIPS UPDATE REQUIRED",
   "update_link": "https://t.me/kmjTrick",
-  "force_update": true,
+  "force_update": false,
   "announcement": "",
   "announcement_id": 0
 }
